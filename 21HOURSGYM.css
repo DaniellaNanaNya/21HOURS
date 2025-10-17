@@ -1,0 +1,55 @@
+.container1{
+    width: 400px;
+    margin: 50px auto;
+    background-color: #f1f1f1;
+    padding: 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+.container{
+    width: 400px;
+    margin: 50px auto;
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 10px;
+}
+
+.f1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+}
+
+.CV{
+    position: relative;
+    bottom: 20px;
+    }
+
+
+.ParcoursScolaire{
+position: relative;
+right: 312px;
+bottom: 57px;
+color : white;
+margin-left: 945px;
+margin-top: 20px;
+font-family: Impact,sans-serif;
+
+}
+
+a{
+color: white;            /* couleur du lien normal */
+text-decoration: none;   /* enlève le soulignement si tu veux */
+}
+  
+a:visited {
+color: white;            /* couleur du lien déjà visité */
+  }
+a:hover {
+color: rgb(255, 88, 166); /* couleur au survol (optionnel) */
+}
+ h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif,sans-serif;
+
+ }
